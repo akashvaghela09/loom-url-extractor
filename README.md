@@ -1,10 +1,10 @@
-# React Chrome Extension Template
+# Loom Url Extractor
 
-This is a boilerplate project for creating a Chrome extension using the latest technologies such as [manifest version 3](https://developer.chrome.com/docs/extensions/mv3/intro/), [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [Webpack](https://webpack.js.org/). It includes all the necessary code and scripts for building and packaging the extension, as well as **hot reloading** during development.
+This extension let's you scrap loom embed url from any webpage and copy to user clipboard. there is also a option to generate YTDLP download command.
 
 Table of Contents
 =================
-- [React Chrome Extension Template](#react-chrome-extension-template)
+- [Loom Url Extractor](#loom-url-extractor)
 - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
   - [Loading the Extension](#loading-the-extension)
@@ -22,13 +22,13 @@ To get started, follow these steps:
 1. Clone the repository in your local machine
 
 ```
-git clone https://github.com/akashvaghela09/react-chrome-extension-template.git
+git clone https://github.com/akashvaghela09/loom-url-extractor.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd react-chrome-extension-template
+cd loom-url-extractor
 ```
 
 3. Install the dependencies:
