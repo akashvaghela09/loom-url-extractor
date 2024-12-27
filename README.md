@@ -70,7 +70,9 @@ To load the extension in Chrome, follow these steps:
 2. Enable developer mode by clicking the toggle in the top right corner.
 3. Click the "Load unpacked" button and select the `dev` folder.
 
-The extension should now be loaded in Chrome. You can verify this by looking for the extension's icon in the browser toolbar.
+_(Note: if you just want to use the extension then extract release zip file and load folder as explained above)_
+
+The extension should now be loaded in Chrome. You can verify this by looking for the extension's icon in the browser toolbar. 
 
 ## Scripts
 
